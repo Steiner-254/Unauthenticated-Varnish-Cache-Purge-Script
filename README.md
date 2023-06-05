@@ -30,5 +30,7 @@ Note: Make sure you have the necessary permissions to execute the script and tha
 Here's an example output of running the script:
 
 VULNERABILITY DETECTED in subdomain: subdomain1
+
 VULNERABILITY DETECTED in subdomain: subdomain3
+
 NO Unauthenticated Varnish Cache Purge VULNERABILITY
